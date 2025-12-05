@@ -1,5 +1,4 @@
-# BiNAR: A Bi-Modal Framework for Non-Aligned RGB-IR 3D Reconstruction via Gaussian Splatting (WACV 2026)
-
+# BiNAR: A Bi-Modal Framework for Non-Aligned RGB-IR 3D Reconstruction via Gaussian Splatting
 ![loading gif](./pics/desktop.gif)
 
 BiNAR achieves pixel-level aligned RGB-IR bi-modal 3D scene reconstruction and rendering.
