@@ -50,3 +50,12 @@ To start training, rendering and evaluating, simply use:
 
 ## Citation
 If you find our work useful in your research, please consider citing:
+、、、
+@inproceedings{wang2026binar,
+  title={BiNAR: A Bi-Modal Framework for Non-Aligned RGB-IR 3D Reconstruction via Gaussian Splatting},
+  author={Wang, Zhongwen and Ling, Han and Zhang, Weihao and Sun, Yinghui and Sun, Quansen},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={4407--4416},
+  year={2026}
+}
+、、、
